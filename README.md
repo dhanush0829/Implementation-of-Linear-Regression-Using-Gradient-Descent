@@ -8,10 +8,11 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. import the required library and read the dataframe
+2. write a function computecost to generate the cost function
+3. perform iterations og gradient steps with learning rate
+4. plot the cost function using gradient descent and generate the required graph
+   
 
 ## Program:
 ```py
